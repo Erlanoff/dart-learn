@@ -3,4 +3,4 @@
 
 
 ##### My Tasks
-- [] Пройти весь курс по Dart на сайте metanit.com
+- [ ] Пройти весь курс по Dart на сайте metanit.com
